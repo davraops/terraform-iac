@@ -4,7 +4,6 @@ This module creates an Azure SQL Server and Database, and configures a Virtual N
 
 ## Usage
 
-```hcl
 module "sql" {
   source = "./modules/sql"
 

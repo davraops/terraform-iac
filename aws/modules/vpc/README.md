@@ -4,7 +4,6 @@ This module creates a VPC along with public and private subnets, an internet gat
 
 ## Usage
 
-```hcl
 module "vpc" {
   source = "./modules/vpc"
 

@@ -4,7 +4,6 @@ This module creates a Virtual Machine (VM) in a specified subnet, along with a n
 
 ## Usage
 
-```hcl
 module "vm" {
   source = "./modules/vm"
 

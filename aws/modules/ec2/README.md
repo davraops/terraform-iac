@@ -4,7 +4,6 @@ This module creates an EC2 instance within a specified VPC and subnet, along wit
 
 ## Usage
 
-```hcl
 module "ec2" {
   source = "./modules/ec2"
 

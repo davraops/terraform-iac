@@ -4,7 +4,6 @@ This module creates an RDS instance within a specified VPC and private subnets, 
 
 ## Usage
 
-```hcl
 module "rds" {
   source = "./modules/rds"
 

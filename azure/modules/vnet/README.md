@@ -4,7 +4,6 @@ This module creates a Virtual Network (VNet) along with subnets in a specified r
 
 ## Usage
 
-```hcl
 module "vnet" {
   source = "./modules/vnet"
 
